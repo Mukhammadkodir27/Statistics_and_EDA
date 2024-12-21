@@ -1,0 +1,14 @@
+-- Standard Deviation 
+https://www.youtube.com/watch?v=esskJJF8pCc&ab_channel=DATAtab
+-- Descriptive Statistics
+https://www.youtube.com/watch?v=FzujIYo9GYo&ab_channel=DATAtab
+-- Measures of Variability
+https://www.youtube.com/watch?v=s7WTQ0H0Acc&ab_channel=DanielStorage
+-- Normal Distribution Explained
+https://www.youtube.com/watch?v=xI9ZHGOSaCg&ab_channel=AceTutors
+-- Normal Distribution 68, 95, 97 Rule
+https://www.youtube.com/watch?v=mtbJbDwqWLE&ab_channel=SimpleLearningPro
+-- Z-statistics vs T-statistics
+https://www.youtube.com/watch?v=DEkPZv5ppHI&ab_channel=AceTutors
+-- Student's T distribution 
+https://www.youtube.com/watch?v=32CuxWdOlow&ab_channel=365DataScience

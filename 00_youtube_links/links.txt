@@ -12,3 +12,7 @@ https://www.youtube.com/watch?v=mtbJbDwqWLE&ab_channel=SimpleLearningPro
 https://www.youtube.com/watch?v=DEkPZv5ppHI&ab_channel=AceTutors
 -- Student's T distribution 
 https://www.youtube.com/watch?v=32CuxWdOlow&ab_channel=365DataScience
+
+
+# Z-Score => Standardizing Unstandardized Normal Distribution --- recommended to rewatch for further analysis
+https://www.youtube.com/watch?v=xI9ZHGOSaCg&ab_channel=AceTutors

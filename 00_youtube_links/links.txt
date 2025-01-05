@@ -16,3 +16,6 @@ https://www.youtube.com/watch?v=32CuxWdOlow&ab_channel=365DataScience
 
 # Z-Score => Standardizing Unstandardized Normal Distribution --- recommended to rewatch for further analysis
 https://www.youtube.com/watch?v=xI9ZHGOSaCg&ab_channel=AceTutors
+
+# hypothesis testing
+https://www.youtube.com/watch?v=2fgQ_8AKhJY&ab_channel=DATAtab
